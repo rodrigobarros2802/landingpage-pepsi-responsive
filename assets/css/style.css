@@ -74,7 +74,7 @@ header li a:hover {
 }
 
 .textoBox {
-    max-width: 600px;
+    width: 600px;
     display: inline-block;
     justify-content: center;
     align-items: center;
@@ -110,14 +110,14 @@ header li a:hover {
 
 .conteudoBox .boxImg {
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-start;
     padding-right: 50px;
     margin-top: 50px;
     width: 600px;
 }
 
 .conteudoBox .boxImg img {
-    max-width: 260px;
+    max-width: 300px;
 }
 
 .thumb {
@@ -163,7 +163,7 @@ header li a:hover {
     list-style: none;
 }
 
-.redes li img {
+.redes li a {
     display: inline-block;
     transform: scale(0.9);
     filter: invert(1);
