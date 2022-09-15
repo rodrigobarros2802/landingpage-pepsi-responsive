@@ -58,3 +58,7 @@ header li a {
     font-size: 18px;
     color: var(--fonte-branco);
 }
+
+header li a:hover {
+    border-bottom: 2px solid var(--fonte-branco);
+}
