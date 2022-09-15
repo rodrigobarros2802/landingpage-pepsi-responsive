@@ -147,3 +147,25 @@ header li a:hover {
 .thumb li img {
     max-width: 50px;
 }
+
+.redes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    top: 50%;
+    right: 30px;
+    transform: translateY(-50%);
+}
+
+.redes li {
+    list-style: none;
+}
+
+.redes li img {
+    display: inline-block;
+    transform: scale(0.9);
+    filter: invert(1);
+    margin: 15px 0;
+}
