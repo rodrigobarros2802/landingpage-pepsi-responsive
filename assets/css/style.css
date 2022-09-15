@@ -1,9 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
 
+:root {
+    --fundo-azul: #0062be;
+    --fundo-vermelho: #e60c2c;
+    --fundo-preto: #1e1e1e;
+    --fonte-branco: #fff;
+    --fonte-botao: #111;
+    --fonte-padrao: 'Poppins', sans-serif;
+}
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: var(--fonte-padrao);
 }
-
