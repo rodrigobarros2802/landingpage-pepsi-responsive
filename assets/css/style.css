@@ -15,3 +15,46 @@
     box-sizing: border-box;
     font-family: var(--fonte-padrao);
 }
+
+.secao {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+    background: var(--fundo-azul);
+}
+
+.secao header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 20px 100px;
+    width: 100%;
+}
+
+.logo {
+    max-width: 80px;
+    position: relative;
+}
+
+header ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header li {
+    list-style: none;
+    margin-left: 40px;
+}
+
+header li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: var(--fonte-branco);
+}
