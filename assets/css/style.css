@@ -108,11 +108,42 @@ header li a:hover {
     font-weight: 700;
 }
 
-.boxImg {
-    position: relative;
+.conteudoBox .boxImg {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: flex-end;
     padding-right: 50px;
-    margin: 50px;
+    margin-top: 50px;
+    width: 600px;
+}
+
+.conteudoBox .boxImg img {
+    max-width: 260px;
+}
+
+.thumb {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 20px;
+}
+
+.thumb li {
+    display: inline-block;
+    align-items: center;
+    justify-content: center;
+    margin: 0 20px;
+    cursor: pointer;
+    list-style: none;
+    transition: 0.5s;
+}
+
+.thumb li:hover {
+    transform: translateY(-15px);
+}
+
+.thumb li img {
+    max-width: 50px;
 }
