@@ -24,6 +24,7 @@
     min-height: 100vh;
     position: relative;
     background: var(--fundo-azul);
+    padding: 20px 100px;
 }
 
 .secao header {
@@ -61,4 +62,57 @@ header li a {
 
 header li a:hover {
     border-bottom: 2px solid var(--fonte-branco);
+}
+
+.conteudo-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    padding: 20px 100px;
+}
+
+.textoBox {
+    max-width: 600px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+}
+
+.textoBox h1 {
+    color: var(--fonte-branco);
+    font-size: 4em;
+    text-transform: uppercase;
+    line-height: 1.5em;
+    font-weight: 900;
+}
+
+.textoBox span {
+    font-size: 2em;
+}
+
+.textoBox p {
+    color: var(--fonte-branco);
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+
+.textoBox a {
+    color: var(--fonte-botao);
+    text-decoration: none;
+    background: var(--fonte-branco);
+    border-radius: 40px;
+    padding: 8px 40px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.boxImg {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 50px;
+    margin: 50px;
 }
