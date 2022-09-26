@@ -31,8 +31,9 @@
 <img width="600" height="300" src="assets/img/print1.png">
 </p>
 
-
-
 # :link: Links
+Deploy - 
 
 # :technologist: Autor
+GitHub - https://github.com/rodrigobarros2802
+LinkedIn - https://www.linkedin.com/in/rodrigobarros2802/
