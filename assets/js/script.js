@@ -6,3 +6,4 @@ function changeBgColor (color) {
     const changeBg = document.querySelector('.secao');
     changeBg.style.backgroundColor = color;
 }
+
