@@ -13,6 +13,25 @@
 # :open_book: Aprendizado
 
 # :camera: Imagens do Projeto
+* Gif Apresentação do Projeto
+<p align="left">
+<img width="600" height="300" src="assets/img/gif-apresentacao-pepsi.gif">
+</p>
+
+* Imagens do Projeto
+<p align="left">
+<img width="600" height="300" src="assets/img/print3.png">
+</p>
+
+<p align="left">
+<img width="600" height="300" src="assets/img/print2.png">
+</p>
+
+<p align="left">
+<img width="600" height="300" src="assets/img/print1.png">
+</p>
+
+
 
 # :link: Links
 
