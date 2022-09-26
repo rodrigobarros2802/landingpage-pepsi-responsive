@@ -36,4 +36,5 @@ Deploy -
 
 # :technologist: Autor
 GitHub - https://github.com/rodrigobarros2802
+
 LinkedIn - https://www.linkedin.com/in/rodrigobarros2802/
