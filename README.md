@@ -31,7 +31,7 @@
 <img width="600" height="300" src="assets/img/print1.png">
 </p>
 
-# :link: Links
+# :link: Link Deploy
 Deploy - https://incandescent-croissant-deddf8.netlify.app/
 
 # :technologist: Autor
