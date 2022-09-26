@@ -13,7 +13,28 @@
 # :open_book: Aprendizado
 
 # :camera: Imagens do Projeto
+* Gif Apresentação do Projeto
+<p align="left">
+<img width="600" height="300" src="assets/img/gif-apresentacao-pepsi.gif">
+</p>
 
-# :link: Links
+* Imagens do Projeto
+<p align="left">
+<img width="600" height="300" src="assets/img/print3.png">
+</p>
+
+<p align="left">
+<img width="600" height="300" src="assets/img/print2.png">
+</p>
+
+<p align="left">
+<img width="600" height="300" src="assets/img/print1.png">
+</p>
+
+# :link: Link Deploy
+Deploy - https://incandescent-croissant-deddf8.netlify.app/
 
 # :technologist: Autor
+GitHub - https://github.com/rodrigobarros2802
+
+LinkedIn - https://www.linkedin.com/in/rodrigobarros2802/
