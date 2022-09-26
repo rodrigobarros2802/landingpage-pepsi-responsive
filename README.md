@@ -1,16 +1,27 @@
 # :triangular_ruler: Landing Page Pepsi Responsive
+* Landing Page demonstração da lata de refrigerante Pepsi.
 
 # :memo: Índice
 
 # :chart_with_upwards_trend: Proposta
 
 # :trophy: Desafio
+* Meu maior desafio nesse projeto foi aplicar todo o meu conhecimento em JavaScript.
 
 # :hammer_and_wrench: Tecnologias
+* JavaScript
+* HTML
+* CSS
 
 # :dart: Objetivo
+* Aplicar responsividade para todos os tamanhos de dispositivos móveis.
 
 # :open_book: Aprendizado
+* Nesse pedaço de código pequeno, não menos importante por ser pequeno, mas que deu uma entrega bem legal no projeto alterando a imagem, e o background-color da página.
+
+<p align="left">
+<img width="600" height="300" src="assets/img/aprendizado.png">
+</p>
 
 # :camera: Imagens do Projeto
 * Gif Apresentação do Projeto
@@ -18,15 +29,17 @@
 <img width="600" height="300" src="assets/img/gif-apresentacao-pepsi.gif">
 </p>
 
-* Imagens do Projeto
+* Imagem do Projeto - Background Preto
 <p align="left">
 <img width="600" height="300" src="assets/img/print3.png">
 </p>
 
+* Imagem do Projeto - Background Vermelho
 <p align="left">
 <img width="600" height="300" src="assets/img/print2.png">
 </p>
 
+* Imagem do Projeto - Background Azul
 <p align="left">
 <img width="600" height="300" src="assets/img/print1.png">
 </p>
