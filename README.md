@@ -2,6 +2,14 @@
 * Landing Page demonstração da lata de refrigerante Pepsi.
 
 # :memo: Índice
+* [Proposta]()
+* [Desafio]()
+* [Tecnologias]()
+* [Objetivo]()
+* [Aprendizado]()
+* [Imagens do Projeto]()
+* [Links]()
+* [Autor]()
 
 # :chart_with_upwards_trend: Proposta
 * A proposta desse projeto foi trabalhar a interatividade em JavaScript e desempenhar um layout bastante estiloso e agradável ao usuário.
