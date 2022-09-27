@@ -169,3 +169,18 @@ header li a:hover {
     filter: invert(1);
     margin: 15px 0;
 }
+
+@media (max-width: 991px) {
+    .secao {
+        padding: 20px 40px;
+    }
+
+    .logo {
+        max-width: 60px;
+        position: relative;
+    }
+
+    .secao header {
+        padding: 20px 40px;
+    }
+}
