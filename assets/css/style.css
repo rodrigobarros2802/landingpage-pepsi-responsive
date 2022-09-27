@@ -157,10 +157,15 @@ header li a:hover {
     top: 50%;
     right: 30px;
     transform: translateY(-50%);
+    transition: 0.10s;
 }
 
 .redes li {
     list-style: none;
+}
+
+.redes li:hover {
+    transform: translateX(-15px);
 }
 
 .redes li a {
