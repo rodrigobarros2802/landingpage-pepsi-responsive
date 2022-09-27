@@ -9,5 +9,7 @@ function changeBgColor (color) {
 
 function menuToggle() {
     const toggleMenu = document.querySelector('.toggleMenu');
+    const navegacao = document.querySelector('.navegacao');
     toggleMenu.classList.toggle('active');
+    navegacao.classList.toggle('active');
 }
