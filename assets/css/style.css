@@ -216,4 +216,13 @@ header li a:hover {
     header li a:hover {
         color: var(--fundo-vermelho);
     }    
+
+    .toggleMenu {
+        background: url("/assets/img/menu.png");
+        background-repeat: no-repeat;
+        background-size: 32px;
+        width: 30px;
+        height: 30px;
+        z-index: 1;
+    }
 }
